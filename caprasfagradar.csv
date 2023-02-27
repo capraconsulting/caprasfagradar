@@ -1,0 +1,133 @@
+﻿Name,Ring,quadrant,isNew,description
+Event Driven Architecture,2- dette kan noen av oss og bruker det hos kunder,Arkitektur,,There's absolutely nothing that is synchronous in this world
+Observability & monitoring,2- dette kan noen av oss og bruker det hos kunder,Arkitektur,,
+Microservice Architecture,1 - kjernen av vår kompetanse,Arkitektur,,
+Data as first class citizen,3- dette følger vi med på i bransjen,Arkitektur,,
+Serverless Architecture,1 - kjernen av vår kompetanse,Arkitektur,,
+Domain Driven Design,1 - kjernen av vår kompetanse,Arkitektur,,
+OpenAPI,1 - kjernen av vår kompetanse,Backend,,Api Documentation
+Postgres,1 - kjernen av vår kompetanse,Backend,,sql database
+Micronaut,1 - kjernen av vår kompetanse,Backend,,webframework
+OAuth og OpenID Connect,1 - kjernen av vår kompetanse,Backend,,Sikkerhet
+REST API Level 1,1 - kjernen av vår kompetanse,Backend,,Resources
+REST API Level 2,1 - kjernen av vår kompetanse,Backend,,Verbs
+NoSQL,1 - kjernen av vår kompetanse,Backend,,"Databaser som feks, DynamoDB, MongoDB, Redis, Elasticsearch, Neo4j."
+Docker,1 - kjernen av vår kompetanse,Backend,,
+Java (ny),1 - kjernen av vår kompetanse,Backend,,Nyere Java v 11 og oppover.
+"Kotlin ",1 - kjernen av vår kompetanse,Backend,,
+AWS ECS Fargate,1 - kjernen av vår kompetanse,Backend,,Serverless container service
+Spring Boot,1 - kjernen av vår kompetanse,Backend,,webframework - Både Spring Boot 2 og 3.
+Serverless Functions,1 - kjernen av vår kompetanse,Backend,,"AWS Lambda, etc."
+JUnit 5,1 - kjernen av vår kompetanse,Backend,,Test Framework
+Mockk,1 - kjernen av vår kompetanse,Backend,,Test Framework
+Python,1 - kjernen av vår kompetanse,Plattform,,Python er et språk som brukes overalt i AWS of ellers
+NodeJS,1 - kjernen av vår kompetanse,"Backend, Frontend",,Runtime
+AWS,1 - kjernen av vår kompetanse,Plattform,,
+HashiCorp Terraform,1 - kjernen av vår kompetanse,Plattform,,infrastructure as code.
+"Continuous Integration, Continuous Deployment",1 - kjernen av vår kompetanse,Plattform,,"Code Build, Code Deploy, Code pipeline, CircleCI, StepFunction"
+REST API Level 3,2- dette kan noen av oss og bruker det hos kunder,Backend,,Hypermedia
+Mysql,2- dette kan noen av oss og bruker det hos kunder,Backend,,sql database
+Redis,2- dette kan noen av oss og bruker det hos kunder,Backend,,in-memory cache database
+Quarkus,2- dette kan noen av oss og bruker det hos kunder,Backend,,webframework
+NewSQL,2- dette kan noen av oss og bruker det hos kunder,Backend,,Distribuerte RDBMS SaaS databaser.
+GraphQL,2- dette kan noen av oss og bruker det hos kunder,Backend,,
+Graph Databaser,2- dette kan noen av oss og bruker det hos kunder,Backend,,"Neptune, neo4j."
+Python,2- dette kan noen av oss og bruker det hos kunder,Backend,,Python er et språk som brukes overalt i AWS of ellers
+SQL DB,2- dette kan noen av oss og bruker det hos kunder,Backend,,RDS
+API Gateway,2- dette kan noen av oss og bruker det hos kunder,Backend,,
+Mockito,2- dette kan noen av oss og bruker det hos kunder,Backend,,Test Framework
+AssertJ,2- dette kan noen av oss og bruker det hos kunder,Backend,,Test Framework
+Kotest,2- dette kan noen av oss og bruker det hos kunder,Backend,,Test Framework
+.net 6+,2- dette kan noen av oss og bruker det hos kunder,Backend,,Language
+Feature Toggles,2- dette kan noen av oss og bruker det hos kunder,"Backend, Frontend",,
+Aurora,2- dette kan noen av oss og bruker det hos kunder,Backend,,Serverless Postgresql DB
+Kubernetes,2- dette kan noen av oss og bruker det hos kunder,Plattform,,Cloud agnostic container orchestration platform.
+Golang,2- dette kan noen av oss og bruker det hos kunder,Plattform,,
+Azure,2- dette kan noen av oss og bruker det hos kunder,Plattform,,
+Edge Computing,3- dette følger vi med på i bransjen,"Backend, Frontend",,
+HashiCorp Nomad,3- dette følger vi med på i bransjen,Backend,,Container orchestration
+AI driven discovery,3- dette følger vi med på i bransjen,"Backend, Metodikk og prosess",,"AI kan ofte hjelpe med trege og slitsomme oppgaver som å søke etter og lese gjennom masse dokumentasjon. "
+Deno,3- dette følger vi med på i bransjen,"Backend, Frontend",,Runtime
+Bun,3- dette følger vi med på i bransjen,"Backend, Frontend",,Runtime
+AsyncAPI,3- dette følger vi med på i bransjen,Backend,,Api Documentation
+CockroachDB,3- dette følger vi med på i bransjen,Backend,,NoSQL DB
+GraalVM,3- dette følger vi med på i bransjen,Backend,,Native Compilation/JDK
+GitOps,3- dette følger vi med på i bransjen,Plattform,,
+GCP,3- dette følger vi med på i bransjen,Plattform,,
+CDK (For AWS/Terraform),3- dette følger vi med på i bransjen,Plattform,,infrastructure as code.
+OpenJDK CRaC,3- dette følger vi med på i bransjen,Backend,,Eks. AWS Lambda SnapStart
+REST API Level 0,4- dette beveger vi oss vekk fra,Backend,,
+"Jakarta EE ",4- dette beveger vi oss vekk fra,Backend,,Gamle Java EE donert til Eclipse foundation.
+Java backends uten webrammeverk,4- dette beveger vi oss vekk fra,Backend,,
+Java (gammel),4- dette beveger vi oss vekk fra,Backend,,Java v 7- 11 legacy java.
+JUnit 4,4- dette beveger vi oss vekk fra,Backend,,Test Framework
+Groovy,4- dette beveger vi oss vekk fra,Backend,,Language
+Grails,4- dette beveger vi oss vekk fra,Backend,,Web Framework
+Rust,3- dette følger vi med på i bransjen,Backend,,Language
+TypeScript,1 - kjernen av vår kompetanse,Frontend,,Typesystem for JavaScript
+React,1 - kjernen av vår kompetanse,Frontend,,UI-bibliotek
+Vue,2- dette kan noen av oss og bruker det hos kunder,Frontend,,UI-bibliotek
+Svelte,2- dette kan noen av oss og bruker det hos kunder,Frontend,,UI-bibliotek
+Remix,2- dette kan noen av oss og bruker det hos kunder,Frontend,,Meta-rammeverk
+NextJS,2- dette kan noen av oss og bruker det hos kunder,Frontend,,Meta-rammeverk
+CSS,1 - kjernen av vår kompetanse,Frontend,,Web standard
+JavaScript,1 - kjernen av vår kompetanse,Frontend,,Web standard
+HTML,1 - kjernen av vår kompetanse,Frontend,,Web standard
+SVG,2- dette kan noen av oss og bruker det hos kunder,Frontend,,Web standard
+WebAssembly,3- dette følger vi med på i bransjen,Frontend,,Web standard
+Web Components,2- dette kan noen av oss og bruker det hos kunder,Frontend,,Web standard
+PWA,2- dette kan noen av oss og bruker det hos kunder,Frontend,,Prinsipp/arkitektur
+DOM API,1 - kjernen av vår kompetanse,Frontend,,Web standard
+CSS-in-JS,2- dette kan noen av oss og bruker det hos kunder,Frontend,,Prinsipp/arkitektur
+CSS Modules,2- dette kan noen av oss og bruker det hos kunder,Frontend,,Web standard
+Houdini CSS,3- dette følger vi med på i bransjen,Frontend,,Web standard
+Vite,1 - kjernen av vår kompetanse,Frontend,,Byggverktøy
+RollupJS,2- dette kan noen av oss og bruker det hos kunder,Frontend,,Byggverktøy
+Webpack,4- dette beveger vi oss vekk fra,Frontend,,Byggverktøy
+Turbo,3- dette følger vi med på i bransjen,Frontend,,Byggverktøy
+Lerna,3- dette følger vi med på i bransjen,Frontend,,Byggverktøy
+Universell utforming,1 - kjernen av vår kompetanse,Frontend,,
+Histoire,3- dette følger vi med på i bransjen,Frontend,,Dokumentasjonsverktøy
+Storybook,3- dette følger vi med på i bransjen,Frontend,,Dokumentasjonsverktøy
+Ladle,3- dette følger vi med på i bransjen,Frontend,,Dokumentasjonsverktøy
+Feature-based development,4- dette beveger vi oss vekk fra,Metodikk og prosess,,
+Trunk-based development,1 - kjernen av vår kompetanse,Metodikk og prosess,,
+Asycnhronous collaboration,1 - kjernen av vår kompetanse,Metodikk og prosess,,
+DevOps,1 - kjernen av vår kompetanse,Metodikk og prosess,,
+"Team Topologies ",2- dette kan noen av oss og bruker det hos kunder,Metodikk og prosess,,
+Kanban,,Metodikk og prosess,,
+Agile coaching,2- dette kan noen av oss og bruker det hos kunder,Metodikk og prosess,,"Vi mener vi er gode på et smidige aspektet, men ønsker å heve oss på coachingaspektet"
+Pragmatic agility,1 - kjernen av vår kompetanse,Metodikk og prosess,,
+Transformativt Lederskap,2- dette kan noen av oss og bruker det hos kunder,Metodikk og prosess,,"Som besrkevt i blant annet Accelerate. Vi bruker nok mye av dette, men er ikke bevisste på det. VI ønsker derfor å gjøre dette tydeligere, og bevege denne inn til nivå 1"
+"Product Discovery Practices ",2- dette kan noen av oss og bruker det hos kunder,Metodikk og prosess,,"Dreier seg om hvordan man identifiserer hva man skal bygge, og inkluderer dette i utviklingsprosessen sin.
+Vi har folk som kan det, men kompetansen er litt lenger unna, men vi tror det er noe vi bør heve oss på. Det er noen som kan det"
+Test Driven Development,2- dette kan noen av oss og bruker det hos kunder,Software Engineering,,
+"Testing (Unit, integration, performance, …)",1 - kjernen av vår kompetanse,Software Engineering,,
+Soft skills,2- dette kan noen av oss og bruker det hos kunder,Arkitektur,,
+Architecture patterns and why they work for what,2- dette kan noen av oss og bruker det hos kunder,Arkitektur,,
+Arkitekturmål og målarkitektur,2- dette kan noen av oss og bruker det hos kunder,Arkitektur,,
+Helsiktig / generell domene innsikt,2- dette kan noen av oss og bruker det hos kunder,"Arkitektur, Software Engineering",,
+Cloud Native,1 - kjernen av vår kompetanse,"Arkitektur, Software Engineering",,
+Rask læring,1 - kjernen av vår kompetanse,"Arkitektur, Software Engineering",,
+Draw.io,3- dette følger vi med på i bransjen,Arkitektur,,
+C4 model,3- dette følger vi med på i bransjen,Arkitektur,,
+Archimate,3- dette følger vi med på i bransjen,Arkitektur,,
+Continuous Discovery,3- dette følger vi med på i bransjen,Software Engineering,,
+Data mesh,3- dette følger vi med på i bransjen,Arkitektur,,
+CMS,,,,Legger det inn på bakgrunn av forespørsel fra kunde. Vet ikke om eller hvor det evt hører hjemme
+Vitest,2- dette kan noen av oss og bruker det hos kunder,Frontend,,Testrammeverk
+Cypress,2- dette kan noen av oss og bruker det hos kunder,Frontend,,Testrammeverk
+Rendering patterns,1 - kjernen av vår kompetanse,Frontend,,SPA/SSR/etc
+Design patterns,1 - kjernen av vår kompetanse,Frontend,,Prinsipp/arkitektur
+Performance patterns,2- dette kan noen av oss og bruker det hos kunder,Frontend,,Prinsipp/arkitektur
+Frontend Arkitektur,1 - kjernen av vår kompetanse,Frontend,,Prinsipp/arkitektur
+Test patterns,1 - kjernen av vår kompetanse,Frontend,,Prinsipp/arkitektur
+Design tokens,3- dette følger vi med på i bransjen,Frontend,,Prinsipp/arkitektur
+NPM,1 - kjernen av vår kompetanse,Frontend,,Byggsteg
+SCSS,4- dette beveger vi oss vekk fra,Frontend,,CSS extension
+Deno,3- dette følger vi med på i bransjen,Frontend,,Runtime
+Playwright,3- dette følger vi med på i bransjen,Frontend,,Testrammeverk
+Less,4- dette beveger vi oss vekk fra,Frontend,,CSS extension
+Jest,4- dette beveger vi oss vekk fra,Frontend,,Testrammeverk
+Tailwind,2- dette kan noen av oss og bruker det hos kunder,Frontend,,CSS rammeverk
+Testing Library,3- dette følger vi med på i bransjen,Frontend,,Testing utilities
